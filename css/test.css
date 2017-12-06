@@ -1,0 +1,25 @@
+body{
+	background-color: ghostwhite;
+}
+h1{
+		color: blue;
+		font-size: 80px;
+		text-decoration: underline;
+	}
+
+	h2{
+
+		font-size: 35px;
+		color: green;
+	}
+
+	span{
+		font-style: italic;
+	}
+	.tiny{
+		font-size: 40px;
+	}
+
+	h2 span{
+		text-decoration: line-through;
+	}
