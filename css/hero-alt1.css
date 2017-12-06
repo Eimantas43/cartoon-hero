@@ -1,0 +1,80 @@
+html, body{
+	font-family: 'Permanent Marker', cursive;
+	margin: 0;
+}
+
+header{
+	background-color: #861313;
+	padding: 20px;
+	text-align: center;
+}
+
+h1{
+	font-size: 55px;
+	color: white;
+	text-shadow: 0 6px 18px black;
+	margin: auto;
+}
+
+h2{
+	text-transform: uppercase;
+    text-shadow: 0 2px 10px black;
+    color: whitesmoke;
+    /* border-style: solid; */
+    /* border-radius: 5px; */
+    background-color: #861313;
+    /* opacity: 0.5; */
+}
+
+
+
+header img{
+}
+
+.big-image{
+	width: 900px;
+	margin: 0 auto;
+	padding: 0 0px;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+	text-align: left;
+	list-style-type: none;
+}
+
+ol{
+	list-style-type: none;
+}
+
+p.caption{
+	font: 16px;
+	color: lightgrey;
+	font-style: italic;
+	margin: auto;
+}
+
+ul{list-style: none;
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	color: #b30000;
+}
+footer {
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #e6e6e6;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
